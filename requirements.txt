@@ -1,3 +1,7 @@
-python-telegram-bot==20.9
+requests
+apscheduler
+Flask
+gunicorn
+python-telegram-bot-telegram-bot==20.9
 requests
 apscheduler
